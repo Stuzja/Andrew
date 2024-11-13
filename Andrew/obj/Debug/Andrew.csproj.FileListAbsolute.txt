@@ -1,0 +1,39 @@
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\bin\Debug\Andrew.exe.config
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\bin\Debug\Andrew.exe
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\bin\Debug\Andrew.pdb
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\obj\Debug\Andrew.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\obj\Debug\Andrew.Form1.resources
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\obj\Debug\Andrew.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\obj\Debug\Andrew.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\obj\Debug\Andrew.exe
+c:\users\sasha\documents\visual studio 2015\Projects\Andrew\Andrew\obj\Debug\Andrew.pdb
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\bin\Debug\Andrew.exe.config
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\obj\Debug\Andrew.exe
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\obj\Debug\Andrew.pdb
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\bin\Debug\Andrew.exe
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\bin\Debug\Andrew.pdb
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\obj\Debug\Andrew.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\obj\Debug\Andrew.Form1.resources
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\obj\Debug\Andrew.Properties.Resources.resources
+C:\Users\Sasha\Documents\GitHub\Andrew\Andrew\obj\Debug\Andrew.csproj.GenerateResource.Cache
+C:\Users\Ann\source\Andrew-master\Andrew\bin\Debug\Andrew.exe.config
+C:\Users\Ann\source\Andrew-master\Andrew\bin\Debug\Andrew.exe
+C:\Users\Ann\source\Andrew-master\Andrew\bin\Debug\Andrew.pdb
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.csproj.AssemblyReference.cache
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.Form1.resources
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.Properties.Resources.resources
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.csproj.GenerateResource.cache
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.csproj.CoreCompileInputs.cache
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.exe
+C:\Users\Ann\source\Andrew-master\Andrew\obj\Debug\Andrew.pdb
+C:\Users\HP\Downloads\Andrew-master\Andrew\bin\Debug\Andrew.exe.config
+C:\Users\HP\Downloads\Andrew-master\Andrew\bin\Debug\Andrew.exe
+C:\Users\HP\Downloads\Andrew-master\Andrew\bin\Debug\Andrew.pdb
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.Form1.resources
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.Properties.Resources.resources
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.exe
+C:\Users\HP\Downloads\Andrew-master\Andrew\obj\Debug\Andrew.pdb
